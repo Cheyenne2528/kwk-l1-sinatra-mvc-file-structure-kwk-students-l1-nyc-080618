@@ -1,3 +1,3 @@
-class  Dog #model
+class Model
   # Replace with Dog clas
 end
